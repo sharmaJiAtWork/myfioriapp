@@ -138,7 +138,7 @@
                             "multiSelect": true
                         },
                         "dataLoadSettings": {
-                            "loadDataOnAppLaunch": "App load setting changed"
+                            "loadDataOnAppLaunch": "always"
                         }
                     }
                 },
